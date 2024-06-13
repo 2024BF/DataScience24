@@ -1,5 +1,6 @@
-# DataScience24
-
-Data Science apprentice
-
+title: Data Science Project
+#logo: /assets/img/headshot_circle.png
+description: This is an example i am working on
+show_downloads: true
+theme: jekyll-theme-minimal 
 
